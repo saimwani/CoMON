@@ -9,7 +9,6 @@ __pycache__/
 video_dir/
 *$py.class
 *.zip
-multinav*/
 send/
 xp/
 xp
@@ -69,7 +68,6 @@ nosetests.xml
 coverage.xml
 
 *,cover
-examples/images
 
 *.cover
 *.py,cover
@@ -163,7 +161,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
-env/
+
 venv/
 ENV/
 env.bak/
@@ -199,9 +197,8 @@ ckpt*
 # habitat_baselines/config/objectnav/ddppo_multinav.yaml
 # configs/tasks/multinav_mp3d.yaml
 # scr.sh
-
-docs
-docs/
+oracle_maps/
+map300.pickle
 res
 res/
 examples
@@ -215,6 +212,6 @@ LICENSE
 MANIFEST.in
 output_file.yaml
 pyproject.toml
-requirements.txt
 setup.py
 setup.cfg
+train.log
