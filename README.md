@@ -132,8 +132,8 @@ Download a model checkpoint for Unstructured communication (U-Comm) or Structure
 
 | Agent            | Run                                                                                                  |
 |------------------|:----------------------------------------------------------------------------------------------------:|
-| U-Comm           |`wget -O model_checkpoints/ckpt.1.pth "http://aspis.cmpt.sfu.ca/projects/comon/model_checkpoints/un_struc/ckpt.1.pth"`|
-| S-Comm       |`wget -O model_checkpoints/ckpt.1.pth "http://aspis.cmpt.sfu.ca/projects/comon/model_checkpoints/struc/ckpt.1.pth"`|
+| U-Comm           |`wget -O model_checkpoints/ckpt.1.pth "http://aspis.cmpt.sfu.ca/projects/multion/comon_checkpoints/un_struc/ckpt.1.pth"`|
+| S-Comm       |`wget -O model_checkpoints/ckpt.1.pth "http://aspis.cmpt.sfu.ca/projects/multion/comon_checkpoints/struc/ckpt.1.pth"`|
 
 
 ### Evaluation
